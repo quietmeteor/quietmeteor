@@ -41,5 +41,7 @@ I'm able to code in:
 >- Discord: qmeteor#3228
 >- mailto:andrealemore@gmail.com
 >- LinkedIn: coming soon.
+>- TryHackMe profile: https://tryhackme.com/p/Skullzxc.
+>- HackTheBox profile: coming soon.
 >
 > I do not possess other socials.
